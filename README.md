@@ -79,6 +79,8 @@ My journey focuses on developing strong technical skills in network administrati
 
 A final-year project focused on enhancing the security of Remote Desktop Protocol (RDP) against brute-force attacks and unauthorized access through automated detection, response, and multi-factor authentication mechanisms.
 
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat&logo=github)]()
+
 **GitHub | Documentation**
 
 This project was designed to improve the security of Windows Remote Desktop services by combining attack detection, automated protection, administrator alerting, and contextual authentication controls. The solution demonstrates practical skills in system administration, network security, and Windows Server environments.
