@@ -103,20 +103,36 @@ This project was designed to improve the security of Windows Remote Desktop serv
 
 
 ---
+# Featured Project: Highly Available Network Infrastructure
 
-###  Enterprise Network Security Lab
+Designed and simulated a highly available three-tier network architecture in GNS3 to ensure service continuity and fault tolerance through DHCP failover and DNS replication.
 
-Enterprise network simulation built with Cisco technologies and GNS3.
+🔗 **GitHub | Documentation**
 
-Features:
+## Technical Highlights
 
-- VLAN segmentation
+- DHCP Failover configured in **Hot Standby** mode.
+- Automatic failover between primary and secondary DHCP servers.
+- DNS replication for continuous name resolution services.
+- Three-tier architecture with VLAN segmentation and inter-VLAN routing.
+- High availability and fault tolerance for critical network services.
+
+## Technologies Used
+
+- GNS3
+- Cisco Routing & Switching
+- Windows Server
+- DHCP Failover
+- DNS Replication
+- VLANs
 - Inter-VLAN Routing
-- VPN deployment
-- Firewall policies
-- Windows Server integration
+- TCP/IP Networking
 
-**Technologies:** Cisco IOS, GNS3, pfSense, Windows Server
+## Key Outcomes
+
+- Improved service availability and resilience.
+- Reduced downtime during server failures.
+- Practical experience in network design and system administration.
 
 ---
 
