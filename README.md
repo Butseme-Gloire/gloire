@@ -2,23 +2,19 @@
 
 Cisco Certified Support Technician (CCST) Networking | System & Network Administrator
 
-Building secure and reliable network infrastructures with a focus on Cisco enterprise technologies, routing, switching
-
-Building secure, scalable and reliable IT infrastructures through networking, system administration and security best practices.
+IT graduate passionate about networking, system administration, and learning modern infrastructure technologies.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat)]()
-[![Email](https://img.shields.io/badge/Email-contactsabinrana@gmail.com-D14836?style=flat)](butsemegloire@gmail.com)
+[![Email](https://img.shields.io/badge/Email-butsemegloire@gmail.com-D14836?style=flat)](butsemegloire@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gloire-butseme-5293762aa/)
 
 ---
 
 ##  About Me
 
-I am a System and Network Administrator with a strong interest in cybersecurity and infrastructure management.
+Administration Systems & Networks Graduate with foundational knowledge in networking, system administration, and IT infrastructure. Passionate about learning and building practical solutions through hands-on projects involving Cisco networking, Windows Server, Linux, and network security.
 
-My experience includes designing enterprise networks, securing remote access services, managing Windows and Linux servers, automating deployments, and building virtual labs using Cisco technologies, pfSense and GNS3.
-
-I enjoy solving technical challenges and continuously improving my skills in networking, security and cloud technologies.
+My journey focuses on developing strong technical skills in network administration, system management, and infrastructure deployment while continuously expanding my expertise in modern IT technologies.
 
 ---
 ## Certifications & Education
