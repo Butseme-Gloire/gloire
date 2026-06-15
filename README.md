@@ -20,7 +20,10 @@ My journey focuses on developing strong technical skills in network administrati
 ## Certifications & Education
 
 **Professional Certifications**
-- [Cisco Certified Support Technician Networking](https://www.credly.com/badges/0cce55de-e105-436a-a3d2-8576bd7aa118/whatsapp) 
+- [Cisco Certified Support Technician Networking](https://www.credly.com/badges/0cce55de-e105-436a-a3d2-8576bd7aa118/whatsapp)
+- [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/65ee7f5a-18de-44ff-b71f-6a8317b20984)
+- [CCNA:Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/b4cc869a-da09-47a2-814c-2dd922f3a461)
+
 
 
 **Academic Background**
@@ -60,7 +63,7 @@ My journey focuses on developing strong technical skills in network administrati
 ###  Databases
 - Oracle Database 18c
 - Oracle APEX
-- ORDS
+  
 
 ###  Virtualization & Labs
 - GNS3
@@ -71,19 +74,33 @@ My journey focuses on developing strong technical skills in network administrati
 
 ---
 
-##  Featured Projects
 
-###  RDP Security Framework
+# Featured Project: RDP Security Hardening System
 
-Advanced Remote Desktop Protocol (RDP) protection system featuring:
+A final-year project focused on enhancing the security of Remote Desktop Protocol (RDP) against brute-force attacks and unauthorized access through automated detection, response, and multi-factor authentication mechanisms.
 
-- Brute-force attack detection
-- Automatic IP blocking
-- Telegram alert notifications
-- Context-aware authentication
-- Two-Factor Authentication (TOTP)
+**GitHub | Documentation**
 
-**Technologies:** Windows Server, PowerShell, Telegram Bot API, Active Directory
+This project was designed to improve the security of Windows Remote Desktop services by combining attack detection, automated protection, administrator alerting, and contextual authentication controls. The solution demonstrates practical skills in system administration, network security, and Windows Server environments.
+
+### Technical Focus
+
+* **Brute-Force Attack Detection:** Monitoring Windows Security Logs to identify repeated failed authentication attempts.
+* **Automatic IP Blocking:** Dynamic blocking of suspicious IP addresses after configurable thresholds.
+* **Administrator Alerts:** Real-time Telegram notifications when malicious activities are detected.
+* **Context-Aware Authentication:** Access control based on time restrictions and geographic location.
+* **Two-Factor Authentication (2FA):** Additional security layer using TOTP verification codes.
+* **Security Monitoring:** Event logging and audit trail for incident tracking and analysis.
+
+### Technical Stack
+
+* **Operating Systems:** Windows Server, Windows 11
+* **Security Technologies:** RDP, TOTP Authentication, Windows Security Policies
+* **Monitoring & Automation:** PowerShell, Windows Event Logs
+* **Networking:** TCP/IP, Firewall Configuration, Access Control
+* **Alerting:** Telegram Bot API
+* **Virtualization & Testing:** GNS3, Virtual Machines
+
 
 ---
 
